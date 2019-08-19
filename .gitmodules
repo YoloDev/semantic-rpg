@@ -1,0 +1,3 @@
+[submodule "db/pathfinder2"]
+	path = db/pathfinder2
+	url = https://gitlab.com/jrmiller82/pathfinder-2-sqlite.git
